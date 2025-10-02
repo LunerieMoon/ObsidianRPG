@@ -1,0 +1,7 @@
+- Ato 1: Descobrir quem é Ikexir
+- Ato 2: Encontrar Ikexir e Descobrir seus planos
+- Ato 3: Impedir o Ritual de Ressureição
+  - Batalha contra os Necromantes
+- Ato 4: Restaurar o Equilíbrio Elemental
+  - Aventura no Plano Elemental
+  - 4 Deuses
