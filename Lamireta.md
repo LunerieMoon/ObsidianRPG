@@ -1,0 +1,3 @@
+Lamireta é um Arquipelago que se encontra no centro de [[Vespirya]] que rodeia uma montanha conhecida popularmente como "[[O Núcleo]]"
+Apesar de ser uma área com geografia complexa graças a proximidade à montanha, todas as ilhas são conectadas por grandes pontes de madeira e por areas rasas, dando uma aparencia de cratera para a àrea da montanha
+Lamireta é conhecido como um grande ponto de encontro da Civilização, com ilhas dedicadas ao comércio, educação e a aventuras

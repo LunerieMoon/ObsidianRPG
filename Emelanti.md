@@ -1,0 +1,2 @@
+Emelanti é um dos 2 [[Planos Altos]]
+Esse plano é comandado por 4 deuses elementais, sendo dividido em 4 domínios, cada um associado a uma dicotomia elemental sendo essas Fogo e gelo, terra e mar, magia e guerra, Vida e Morte.

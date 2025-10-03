@@ -1,0 +1,1 @@
+Celestia é um dos 3 [[Planos Baixos]], associado aos Aasimars

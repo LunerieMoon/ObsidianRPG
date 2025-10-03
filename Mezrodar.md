@@ -1,0 +1,1 @@
+Na história de [[Arseane]], Mezrodar foi um demonio que, liderando legiões de demonios, tentou dominar o plano] e transformar [[Vespirya]] em uma extensão do [[Abismo]]. Seu objetivo com essa conquista é incerto, mas acredita-se que seria uma tentativa de demonstrar seu poder em relação a outros demonios maiores

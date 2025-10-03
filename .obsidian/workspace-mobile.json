@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arsean.md",
+                "file": "Celestia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arsean"
+              "title": "Celestia"
             }
           }
         ]
@@ -98,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Celestia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,10 +155,22 @@
   },
   "active": "492e5f12de4c0791",
   "lastOpenFiles": [
-    "Ideias/Progressão da História.md",
-    "Arsean.md",
-    "Ideias/Objetivos.md",
+    "Abismo.md",
+    "Celestia.md",
+    "Emelanti.md",
+    "Etenali.md",
+    "Lamireta.md",
+    "Mezrodar.md",
+    "O Núcleo.md",
+    "Planos Altos.md",
+    "Problemas com a Magia.md",
+    "Planos Baixos.md",
+    "Vespirya.md",
+    "Arseane.md",
+    "Untitled.md",
     "Ideias/Antagonistas.md",
+    "Ideias/Objetivos.md",
+    "Ideias/Progressão da História.md",
     "Ideias"
   ]
 }
