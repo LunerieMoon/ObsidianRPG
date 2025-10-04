@@ -1,0 +1,1 @@
+O Abismo é um dos 3 [[Planos Baixos]], associado aos demonios em geral

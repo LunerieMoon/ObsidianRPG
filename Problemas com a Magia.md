@@ -1,0 +1,1 @@
+Muitos magos passaram a relatar uma estranheza no arcano, mencionando que, apesar de decadas trabalhando com a magia, ela nunca teria se apresentado de forma tão caótica
